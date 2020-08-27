@@ -102,7 +102,7 @@
       </record>
     </record>
     <record javaclass="com.wm.util.Values">
-      <value name="name">John and Sons Hello</value>
+      <value name="name">John and Sons Hello eBay A</value>
       <value name="id">2</value>
       <record name="address" javaclass="com.wm.util.Values">
         <value name="line1">345 State St</value>
