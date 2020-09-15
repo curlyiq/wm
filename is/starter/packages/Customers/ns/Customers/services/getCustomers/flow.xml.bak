@@ -102,7 +102,7 @@
       </record>
     </record>
     <record javaclass="com.wm.util.Values">
-      <value name="name">John and Sons Hello Jump2</value>
+      <value name="name">John and Sons Hello Jump3</value>
       <value name="id">2</value>
       <record name="address" javaclass="com.wm.util.Values">
         <value name="line1">345 State St</value>
