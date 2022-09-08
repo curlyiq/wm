@@ -11,7 +11,7 @@
   <!-- nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
+  <COMMENT>Map V1</COMMENT>
   <MAPTARGET>
 
 <Values version="2.0">
